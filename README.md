@@ -1,6 +1,10 @@
 # Проверка чётности/нечётности числа
 
 <p align="center">
+ <img src="https://github.com/Omegon226/OddEven/assets/69383841/23c13d4c-80a5-43d9-864d-efd97d525ffc" height=500/>
+</p>
+
+<p align="center">
   <b>
     УЗРИТЕ НАСТОЯЩУЮ МОЩЬ
   </b>
