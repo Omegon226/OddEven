@@ -16,5 +16,8 @@
 
 Для просмотра кода `odd_even_big.py` клацайте *View raw*
 
-![image](https://github.com/Omegon226/OddEven/assets/69383841/b15efa92-d709-4251-978e-3c6e70a3fc82)
+<p align="center">
+ <img src="https://github.com/Omegon226/OddEven/assets/69383841/b15efa92-d709-4251-978e-3c6e70a3fc82"/>
+</p>
+
 
