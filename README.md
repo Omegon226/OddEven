@@ -19,7 +19,5 @@
 Главными преимуществами моей разработки я считаю сочетание скорости работы, низкой энтропии, а самое главное ***ВЫСОКОЙ ЧИТАЕМОСТЬЮ***
 
 <p align="center">
- <img src="https://github.com/Omegon226/OddEven/assets/69383841/b15efa92-d709-4251-978e-3c6e70a3fc82"/>
+ <img src="https://github.com/Omegon226/OddEven/assets/69383841/0b9caf57-223d-41c1-80d0-8277fb125787"/>
 </p>
-
-
